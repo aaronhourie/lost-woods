@@ -8,6 +8,5 @@ moves a cursor from one tree to another.
 
 Every time you move this cursor, the paths between the trees gets shuffled around.
 
-The challenge? Fork this repo and write code to search through this structure!
 
 Send me a message if you happen to find any bugs/insecurity/loopholes etc. 
